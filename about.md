@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Brian Oxley running a D&D 5e campaign for my family and friends.
+Hi, I'm B. K. Oxley (binkley), posting on code.
 
 ### Contact me
 
